@@ -1,0 +1,118 @@
+body {
+	font-family: Helvetica;
+}
+
+p#intro {
+font-size: 25px;
+border-bottom: 2px solid rgb(221, 221, 221);
+margin-bottom: 40px;
+padding-bottom: 5px;
+}
+
+.box_wrapper {
+float: none;
+margin-left: auto;
+margin-right: auto;
+width: 800px;
+}
+
+p#intro {
+font-size: 21px;
+letter-spacing: 1px;
+color: rgb(85, 85, 85);
+}
+
+.intro_container {
+	width: 100%;
+}
+
+
+.intro {
+	width: 800px;
+	display: block;
+	margin-bottom:10px;
+	text-align:left;
+}
+
+.logo_start {
+}
+
+
+#results {
+	border-left: 1px solid #434343;
+	border-right: 1px solid #434343;
+	width: 800px;
+}
+
+.box_header	{
+	height: 50px;
+	width: 800px;
+	padding-top: 0px;
+	border-top-left-radius: 5px 5px;
+	border-top-right-radius: 5px 5px;
+	background-color: #85B7D4;
+	border-left: 1px solid #434343;
+	border-right: 1px solid #434343;
+	border-top: 1px solid #434343;
+}
+
+
+.box_footer {
+	height: 20px;
+	width: 800px;
+	border-bottom-left-radius: 5px 5px;
+	border-bottom-right-radius: 5px 5px;
+	background-color: #96A5AD;
+	border-left: 1px solid #434343;
+	border-right: 1px solid #434343;
+	border-bottom: 1px solid #434343;
+}
+
+
+.search {
+	padding: 10px;
+}
+
+h2 {
+	margin-top: 0px;
+}
+
+img#icon {
+	width:20px;
+	height:20px;
+	float:left;
+}
+
+h2#year {
+	font-size: 20px;
+	color: blue;
+	border-bottom: 1px solid;
+	border-bottom-style: dotted;
+	margin-right: 20px;
+}
+
+html,
+body {
+	margin:0;
+	padding:0;
+	height:100%;
+}
+.container_for_footer {
+	min-height:100%;
+	position:relative;
+	text-align: center;
+}
+
+.content {
+	padding-bottom:45px;   /* Height of the footer element */
+}
+.footer {
+	font-size: 10px;
+	width:100%;
+	height:25px;
+	position:absolute;
+	bottom:0;
+	left:0;
+	background:#E3E3E3;
+	padding-bottom: 10px;
+}

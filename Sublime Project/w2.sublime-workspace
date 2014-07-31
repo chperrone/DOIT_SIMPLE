@@ -1,0 +1,738 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"parseJs",
+				"parseJson2"
+			],
+			[
+				"relabel",
+				"relabel2"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"VIOLATIONS",
+				"VIOLATIONS_BY_CAT"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"year",
+				"year"
+			],
+			[
+				"array_",
+				"array_push"
+			],
+			[
+				"png",
+				"png"
+			],
+			[
+				"VIOLATI",
+				"VIOLATIONS"
+			],
+			[
+				"VIOLA",
+				"VIOLATIONS"
+			],
+			[
+				"VIOL",
+				"VIOLATIONS"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"return",
+				"returnedData"
+			],
+			[
+				"LIKE",
+				"LIKE"
+			],
+			[
+				"inspect",
+				"inspect_arrow"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"set",
+				"setMap"
+			],
+			[
+				"noise",
+				"noiseFlip"
+			],
+			[
+				"aj",
+				"ajaxRequests"
+			],
+			[
+				"raw",
+				"rawCrimeList"
+			],
+			[
+				"poin",
+				"pointArray2"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"append",
+				"appendTo"
+			],
+			[
+				"enter",
+				"enter-box"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"val",
+				"val"
+			],
+			[
+				"input",
+				"inputTag"
+			],
+			[
+				"select",
+				"selectTag"
+			],
+			[
+				"selec",
+				"selectBlock"
+			],
+			[
+				"parse",
+				"parseButtons"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"jq",
+				"jquery"
+			],
+			[
+				"image",
+				"image"
+			],
+			[
+				"cre",
+				"createTextNode"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"view",
+				"viewEvents"
+			],
+			[
+				"load",
+				"loadXMLDoc"
+			],
+			[
+				"current",
+				"currentField"
+			],
+			[
+				"getElem",
+				"getElementById"
+			],
+			[
+				"post",
+				"postEvent"
+			],
+			[
+				"field",
+				"fieldList"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"pos",
+				"postEvent"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"col",
+				"background-color"
+			],
+			[
+				"t",
+				"textarea"
+			],
+			[
+				"my",
+				"myInput"
+			],
+			[
+				"getElemen",
+				"getElementsByTagName"
+			],
+			[
+				"se",
+				"setAttribute"
+			],
+			[
+				"crea",
+				"createElement"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"dis",
+				"displayXML"
+			],
+			[
+				"xml",
+				"xmldata1"
+			],
+			[
+				"cr",
+				"createElement"
+			],
+			[
+				"new",
+				"newEvent"
+			],
+			[
+				"event",
+				"eventList"
+			],
+			[
+				"even",
+				"eventList"
+			],
+			[
+				"imp",
+				"imp1"
+			],
+			[
+				"m",
+				"meta	Tag"
+			],
+			[
+				"S",
+				"Square"
+			],
+			[
+				"countAll",
+				"countAllList"
+			],
+			[
+				"check",
+				"checkInexact"
+			],
+			[
+				"blue",
+				"blueEyes"
+			],
+			[
+				"M",
+				"miamiFL"
+			],
+			[
+				"add",
+				"Address"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"N",
+				"NUM_STEAK"
+			],
+			[
+				"NU",
+				"NUM_STEAK"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"Fil",
+				"File	File.read(\"..\")"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/charlesperrone/Sites/DOIT_SIMPLE/WEBPAGE2/my.js",
+			"settings":
+			{
+				"buffer_size": 3181,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/charlesperrone/Sites/DOIT_SIMPLE/WEBPAGE2/search.html",
+			"settings":
+			{
+				"buffer_size": 1430,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php\nrequire_once(\"socrata.php\");\n$socrata = new Socrata(\"http://data.cityofboston.gov/api\");\n\n//if(isset($_POST['streetnum'], $_POST['streetname'])) {\n$snum = 51;//$_POST['streetnum'];\n$sname = \"Calumet\";//$_POST['streetname'];\n//}\n\n$query = \"street = '$sname' AND (stno = '$snum' OR (stno <= '$snum' AND sthigh >= '$snum'))\";\n\n\n$params = array(\"\\$where\" => $query);\n\n$response = $socrata->get(\"/resource/8sq6-p7et.json\", $params);\n\n$lat;\n$lng;\n\n///Year Class\n//\nclass Year {\n\n	public $name;\n	public $loInc;\n\n	public function __construct($name, $loInc) {\n		$this->name = $name;\n		$this->loInc = $loInc;\n	}\n\n	public function __toString() {\n		return \"Year: \" . $this->name . $this->listToString();\n	}\n\n	public function listToString() {\n\n		$result = '';\n\n		foreach ($this->loInc as $value) {\n			 $result = $result . ' ' . $value;\n		}\n\n		return $result;\n	}\n\n	//add an incident to a particular year's incident list\n	public function addInc($inc) {\n		$placed = false;\n\n		foreach ($this->loInc as $value) {\n			if ($inc->desc === $value->desc) {\n				$value->incFreq();\n				$placed = true;\n			}\n		}\n\n		if ($placed === false) {\n			array_push($this->loInc, $inc);\n		}\n	}\n}\n\n///Incident Class\n//\nclass Incident {\n\n	public $freq;\n	public $desc;\n	public $cat;\n	public $rat;\n\n	public function __construct($freq, $desc, $cat, $rat) {\n		$this->freq = $freq;\n		$this->desc = $desc;\n		$this->cat  = $cat;\n		$this->rat  = $rat;\n	}\n\n	public function __toString() {\n		return $this->freq . ' ' . $this->desc . ' ' . $this->cat;\n	}\n\n	//increase the frequency by 1\n	public function incFreq() {\n		$this->freq = $this->freq + 1;\n	}\n}\n\n\n///return a new Incident with the correct labels\n//\nfunction relabel($string) {\n	$con = mysqli_connect(\"localhost\", \"root\", \"root\", \"DOIT\");\n\n	$query = \"SELECT * FROM violations WHERE\n			  short= '$string'\";\n\n	if ( $stmt = mysqli_query( $con, $query ) ) {\n\n			$row = mysqli_fetch_array( $stmt );\n\n			$proper = $row['proper'];\n			$cat = $row['category'];\n			$rat = $row['rating'];\n\n			if (is_null($proper) ||\n				is_null($cat) ||\n				is_null($rat)) {\n				return new Incident(1, \"Other\", \"Other\", 0);\n			}\n			else { return new Incident(1, $proper, $cat, $rat); }\n	}\n	mysqli_close($con);\n}\n\nfunction parseJson($response) {\n	$result['list'] = array();\n\n	$result['address'] = getAddress($response[0]);\n\n	foreach ($response as $item) {\n		$year = substr($item['status_dttm'], 0, 4);\n		$placed = false;\n\n		foreach ($result['list'] as $a) {\n			if ($a->name === $year) {\n				$a->addInc(relabel($item['description']));\n				$placed = true;\n			}\n		}\n\n		if (!$placed) {\n			array_push($result['list'], new Year($year, array(relabel($item['description']))));\n		}\n	}\n	echo json_encode($result);\n}\n\nfunction getAddress($cell) {\n	$lat = $cell['latitude'];\n	$lng = $cell['longitude'];\n\n	//fire($lat, $lng);\n\n\n	if (isset($cell['sthigh'])) {\n		return $cell['stno'].'-'.$cell['sthigh'].' '.$cell['street'].' '.strtolower($cell['suffix'])\n		.' '.$cell['city'].' '.$cell['zip'];\n	}\n		return $cell['stno'].' '.$cell['street'].' '.strtolower($cell['suffix'])\n		.' '.$cell['city'].' '.$cell['zip'];\n}\n\nparseJson($response);\n\nfunction fire($lat, $lng) {\n	echo $lat;\n	echo $lng;\n\n	$socrata2 = new Socrata(\"http://data.cityofboston.gov/api\");\n	\n	$query2 = \"within_circle(location, $lat, $longitude, $range)\";\n\n	$params2 = array(\"\\$where\" => $query2);\n	$response2 = $socrata2->get(\"/resource/awu8-dc52.json\", $params2);\n\n	echo json_encode($response2);\n}\n?>",
+			"file": "/Users/charlesperrone/Sites/DOIT_SIMPLE/WEBPAGE2/my.php",
+			"file_size": 4175,
+			"file_write_time": 1406663563000000,
+			"settings":
+			{
+				"buffer_size": 3434,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<?php\n\n	$con = mysqli_connect(\"localhost\", \"root\", \"root\", \"DOIT\");\n\n	if ( mysqli_connect_errno() ) {\n		echo \"Could not connect\";\n		exit();\n	}\n\n	$VALUES_V = [5,15,100,100,250,300,300,50,100,300,200,700,200,100,200,\n            200,200,300,50,200,50,200,1000,300,50,50,200,300,250,100,100,150,200,500,200,500,\n            500,100,100,400,200,200,300,100,200,300,300,500,100,300,300,200,100,200,300,1000,\n            300,200,200,300,200,200,200,300,100,100,100,100,100,300,400,200,200,200,1000,300,300,300,400,\n            200,200,100,200,100,1000,200,200,100,200,300,400,200,500,200,1500,300,400,300,100,400,200,25,100,100,200,\n            100,200,1500,200,100,400,150,500,500,200,200,100,100,200,100,100,100,500,300,100,100,100,200,100,200,200,\n            300,500,100,200,300,500,400,300,200,100,200,300,100,100,200,2000,200,100,300,100,100,500,500,500,1000,1000,\n            1000,50,500,300,300,400,3000,400,500,300,500,500,500,1000,200,300,300,300,400,400,400,500,600,100,100,\n            100,200,300,300,300,400,100,100,100,500,500,200,500,500,500,500,200,50,200,200,500,200,400,1000,200,\n            300,500,200,100,300];\n\n    $VIOLATIONS_BY_CAT = [\" Trash \",\" Overgrown Weeds \",\" Graffiti \",\" Trash \",\" Trash \",\" Permit/Registration \",\n		\" Safety/Fire Protection \",\" Other \",\" Other \",\n		\" Permit/Registration \",\" Permit/Registration \", \" Trash \",\" Other \",\" Other \",\" Permit/Registration \",\n		\" Permit/Registration \",\" Repair/Maintenance \",\n		\" Safety/Fire Protection \", \" Permit/Registration \",\" Safety/Fire Protection \",\" Other \", \" Graffiti \",\n		\" Cleanliness \",\" Permit/Registration \",\n		\" Repair/Maintenance \",\" Repair/Maintenance \",\" Permit/Registration \",\" Other \",\" Repair/Maintenance \",\" Trash \",\n		\" Permit/Registration \",\" Safety/Fire Protection \",\" Safety/Fire Protection \",\" Trash \",\" Safety/Fire Protection \",\n		\" Repair/Maintenance \",\" Permit/Registration \",\" Other \",\" Safety/Fire Protection \",\n		\" Other \",\" Permit/Registration \",\" Safety/Fire Protection \",\" Repair/Maintenance \",\" Permit/Registration \",\n		\" Other \",\" Other \",\" Permit/Registration \",\" Safety/Fire Protection \",\n		\" Other \",\" Permit/Registration \",\" Trash \",\" Other \",\n		\" Other \",\" Permit/Registration \",\" Other \",\" Trash \",\n		\" Other \",\" Other \",\" Other \",\" Safety/Fire Protection \",\n		\" Other \",\" Other \",\" Other \",\" Permit/Registration \",\n		\" Safety/Fire Protection \",\" Safety/Fire Protection \",\n		\" Safety/Fire Protection \",\" Other \",\" Other \",\" Safety/Fire Protection \",\n		\" Fire Protection Systems \",\" Other \",\" Repair/Maintenance \",\" Safety/Fire Protection \",\n		\" Trash \",\" Safety/Fire Protection \",\" Safety/Fire Protection \",\n		\" Safety/Fire Protection \",\" Safety/Fire Protection \",\" Safety/Fire Protection \",\" Other \",\n		\" Safety/Fire Protection \",\" Other \",\" Other \",\" Trash \",\n		\" Other \",\" Safety/Fire Protection \",\" Other \",\" Repair/Maintenance \",\n		\" Safety/Fire Protection \",\" Safety/Fire Protection \",\" Safety/Fire Protection \",\n		\" Other \",\" Other \",\" Trash \",\" Safety/Fire Protection \",\n		\" Safety/Fire Protection \",\" Other \",\" Other \",\" Safety/Fire Protection \",\n		\" Other \",\" Trash \",\" Other \",\" Other \",\" Permit/Registration \",\" other \",\n		\" Safety/Fire Protection \",\" Trash \",\" Repair/Maintenance \",\" Safety/Fire Protection \",\" Safety/Fire Protection \",\n		\" Trash \",\" Safety/Fire Protection \",\" Other \",\" Other \",\n		\" Other \",\" Permit/Registration \",\" Safety/Fire Protection \",\" Safety/Fire Protection \",\n		\" Other \",\" Other \",\" Safety/Fire Protection \",\" Repair/Maintenance \",\" Safety/Fire Protection \",\n		\" Other \",\" Other \",\" Repair/Maintenance \",\" Permit/Registration \",\n		\" Repair/Maintenance \",\" Other \",\" Permit/Registration \",\n		\" Safety/Fire Protection \",\" Safety/Fire Protection \",\" Other \",\" Other \",\n		\" Other \",\" Other \",\" Other \",\" Trash \",\" Safety/Fire Protection \",\n		\" Other \",\" Other \",\" Other \",\" Safety/Fire Protection \",\" Safety/Fire Protection \",\" Other \",\n		\" Trash \",\" Other \",\" Other \",\" Safety/Fire Protection \",\" Permit/Registration \",\n		\" Other \",\" Other \",\" Other \",\" Safety/Fire Protection \",\" Other \",\n		\" Other \",\" Safety/Fire Protection \",\" Other \",\" Maintenance/Fire Protection \",\" Other \",\n		\" Safety/Fire Protection \",\" Other \",\" Trash \",\" Other \",\" Other \",\n		\" Other \",\" Safety/Fire Protection \",\" Safety/Fire Protection \",\" Safety/Fire Protection \",\n		\" Safety/Fire Protection \",\" Safety/Fire Protection \",\" Other \",\" Safety/Fire Protection \",\n		\" Safety/Fire Protection \",\" Safety/Fire Protection \",\" Other \",\" Other \",\n		\" Safety/Fire Protection \",\" Other \",\" Other \",\" Safety/Fire Protection \",\" Other \",\n		\" Other \",\" Other \",\" Other \",\" Safety/Fire Protection \",\n		\" Other \",\" Other \",\" Safety/Fire Protection \",\" Other \",\n		\" Other \",\" Safety/Fire Protection \",\" Other \",\" Other \",\n		\" Other \",\" Safety/Fire Protection \",\" Other \",\" Other \",\n		\" Other \",\" Safety/Fire Protection \",\" Other \",\" Safety/Fire Protection \",\n		\" Safety/Fire Protection \",\" Other \",\" Trash \",\" Permit/Registration \",\" Permit/Registration \",\n		\" Safety/Fire Protection \",\" Safety/Fire Protection \",\" Trash \"];\n\n		$VIOLATIONS = [\" Improper storage trash: res \",\" Overgrown Weeds On Property \",\" Graffiti on building- 1 \",\n		\" Overfilling of barrel \",\" Illegal dumping < 1 cubic yd \",\" Maint a dumpster wopermit \",\" Unsafe Structure \",\n		\" Protection of Adj. Property \",\" Right of Entry \",\" Unregistered motor vehicles- 2 \",\" Failure to Obtain Permit \",\n		\" Illegal dumping 1-5 cubic yd.: \",\" Mass. State Electrical Code \",\" Supervision of Electricians \",\" Working Without a Permit \",\n		\" Failure to Secure Permit \",\" Maintenance \",\" Fire  & Smoke Alarm Systems \",\n		\" Unregistered motor vehicles-1 \",\" Unsafe & Dangerous \",\" Board Up Property (Ch 139-3A) \",\n		\" Graffiti on building- 2 \",\" Site Cleanliness license ? VIO \",\" Posting signs wo authority \",\" No Number On A Building \",\n		\" Street Numbers \",\" Illegal Vending \",\" Fail to post management comp \",\" Non-Emergency Auto Repair \",\" Trash illegally dump container \",\n		\" Certificate of Occupancy \",\" Removal snow private property \",\" Exits \",\" Illegal dumping park \",\" Exit passageways \",\n		\" Maintenance of Exterior \",\" Unlawful Continuance \",\" Referenced Codes & Standards \",\" Illumination \",\n		\" Mass State Plumbing Code \",\" Required Inspections \",\" Ramps \",\" Egress Maintenance \",\" Permits \",\n		\" Mechanical Execution of Work \",\" Elec. Equip. & Connections \",\" Failure To Register \",\" Unsafe and Dangerous \",\n		\" Enforcement \",\" Failure to secure a Re-Inspect \",\" disposal med waste \",\" Wiring Integrity \",\n		\" Electrical Connections \",\" Electrical Work w/out Permit \",\" Prohibited Locations \",\" Illegal dumping w a vehicle \",\n		\" Approval of Documents \",\" Certificate of Inspection  \",\" Abutting a public street \",\" Means of Egress \",\n		\" Guarding of Live Ports \",\" Integrity of Elec. Equip. \",\" Guarding of Live parts \",\" Electrical Work w/out a Permit \",\n		\" Failure clear sidewalk - snow \",\" Failure clear sidewalk - snow: \",\n		\" Removal snow private prop \",\" Integrity of elec. equipment \",\" Circuit Intensity \",\" Emergency Escape & Rescue \",\n		\" Fire Protection Systems \",\" Wiring Methods \",\" Corridor Obstruction \",\" Monitoring Fire Alarm Systems \",\n		\" Illegal dumping 5 cubic yd. \",\" Fire Protection & Life Safety \",\" Portable Fire Extinguishers \",\n		\" Means of egress doors \",\" Exits Maintained \",\" Minimum Number of Exits \",\" Locks and Latches \",\n		\" Handrails/safety \",\" Electrical equipment integrity \",\" Exposed work \",\" Illegal dumping 5+ cubic yd \",\n		\" Live loads(roof) \",\" Accessible Means of Egress \",\" Imbedded posts&poles \",\" Testing&Maintenance Sprinklers \",\n		\" Fire Alarm Systems \",\" Carbon monoxide alarms \",\" Fire Wall/Fire Resistance \",\n		\" Occupancy \",\" Amended Constuction documanets \",\" Illegal dumping Const debris \",\" Horozontal assemblies;Fire \",\n		\" Fire-resistance rating \",\" Failure of Delivery Standards \",\" Sign: Zoning Code Art 11-2&sub \",\" Fire Alarm Ent. Response \",\n		\" Workmanship \",\" Littering \",\" Minimum Requirements \",\" Size and Rating \",\" Approval required \",\" Illegally occupied prior to CO \",\n		\" Smoke alarm locations \",\" Illegal dumping 1-5 cuyd. \",\" General Repairs \",\" Pool barrier \",\" Access to Public Way \",\n		\" Large building recycling- 1 \",\" Unsafe Structures \",\" Ungrounded Conducters \",\" Means of Attachment \",\n		\" Referenced Codes \",\" Construction Documents \",\" Exit Signs \",\" Emergency Escape \",\n		\" Specialized codes \",\" Floor Surface \",\" Handrails \",\" Proper Maintenance \",\" Emergency escape and rescue \",\n		\" Failure to call Inspections \",\" Protection of conductors \",\" Unsafe Maintenance \",\" Clearance \",\n		\" Maintenance of Facilities \",\" Temporary Wiring Methods \",\" Failure to secure inspections \",\n		\" Egress thru Intervening Spaces \",\" Hazrdous Means of Egress \",\" Certificate of Inspection \",\" Seperation Walls \",\n		\" Wiring \",\" Unlawful Acts \",\" Operational Constraints \",\" Large building recycling - 2 \",\" Fire Alarm and Detection \",\n		\" Retaining Wall \",\" Corridors \",\" Effect of Non-Conforming Use \",\" Gates \",\" Fire Walls \",\" Elevator Lobbies \",\n		\" Illegal dumping  vehicle: \",\" Pull & Junction Boxes \",\" Wiring Intensity \",\" Exit Access \",\" Installation, uses permitted \",\n		\" Guards Where Required \",\" Water Accumulation \",\" Objectionable Current \",\" Smoke Alarms \",\" Damp or Wet Locations \",\n		\" Arcing Parts \",\" Unsafe Building & Structures \",\" Crying out wares- 1 \",\" Maintenance/Fire Protection \",\" Maximum Height from Floor \",\n		\" Construction Safeguards \",\" Mounting Elec. Equipment \",\" Illegal dumping: Haz Waste \",\" Bolt Locks \",\" Bathrooms \",\n		\" Illegal Temporary Wiring \",\" Means of Egress Illumination \",\" Smoke Detectors \",\" Fire Warning Systems \",\n		\" Carbon Monoxide Protection \",\" Unsafe Mechanical Equipment \",\" Boxes Construct & Install \",\" Fire Escape Affidavit \",\n		\" Overcurrent Protection \",\" Fire Alarm & Detection \",\" Side Yard Requirements \",\" Grounding electrode conduction \",\n		\" Egress \",\" Manner of Removal \",\" Excessive Use of Ext. Cords \",\" Removal/Making Structure Safe \",\" Covers & Canopies \",\n		\" False Statements \",\" Violation penalties \",\" Improper Electrical Repair \",\" Rem Dangerous/Abandoned Struct \",\n		\" Failure to call for req Insp. \",\" Licensed Supervisor \",\" Fire Partitions \",\" Spaces about Elect. Equip. \",\n		\" Building Illegally Occupied \",\" Hazardous Means of Egress \",\" Ventilation \",\" Electrical Rm Used for Storage \",\n		\" Elevated Electrical Room \",\" Access to a Publicway \",\" Door Locks \",\" Disconnecting Means Service \",\n		\" Abusive Language In Solicitati \",\" Remove/Making Safe Structure \",\" Abandoned Cable \",\" Carbon Monoxide Detectors \",\n		\" Hand Rails \",\" Basements \",\" Illegal dumping solid waste \",\" Clearance on Buildings \",\" Permit Secured by Owner \",\n		\" Emergency Escape and Rescue Op \",\" Fences \",\" Exit Signs & Lights \",\" Illegal Dumping (vehicle) \"];\n\n		$VIOLATIONS_PROPER = [\" Improper Residential Trash Storage \",\" Overgrown Weeds On Property \",\" Graffiti on building \",\n		\" Overfilling of Trash Barrel \",\" Illegal dumping (less than 1 cubic yards) \",\" Maintanance of dumpster without Permit \",\" Unsafe Structure \",\n		\" Protection of Adjacent Property \",\" Right of Entry \",\" Unregistered motor vehicles \",\" Failure to Obtain Permit \",\n		\" Illegal dumping (1-5 cubic yards) \",\" MA State Electrical Code \",\" Supervision of Electricians \",\" Working Without a Permit \",\n		\" Failure to Secure Permit \",\" Maintenance \",\" Fire  & Smoke Alarm Systems \",\n		\" Unregistered motor vehicles \",\" Unsafe & Dangerous \",\" Boarded Up Property \",\n		\" Graffiti on building \",\" Site Cleanliness license Violation \",\" Posting Signs without Authority \",\" No Number On A Building \",\n		\" Street Numbers Missing \",\" Illegal Vending \",\" Fail to post management company \",\" Non-Emergency Auto Repair \",\" Trash illegally dumped in container \",\n		\" Certificate of Occupancy \",\" No Removal of snow at private property \",\" Exits \",\" Illegal dumping park \",\" Exit passageways \",\n		\" Maintenance of Exterior \",\" Unlawful Continuance \",\" Referenced Codes & Standards \",\" Illumination \",\n		\" MA State Plumbing Code \",\" Required Inspections \",\" Ramps \",\" Egress Maintenance \",\" Permits \",\n		\" Mechanical Execution of Work \",\" Electrical Equipment & Connections \",\" Failure To Register \",\" Unsafe and Dangerous \",\n		\" Enforcement \",\" Failure to secure a Re-Inspect \",\" disposal of medical waste \",\" Wiring Integrity \",\n		\" Electrical Connections \",\" Electrical Work without Permit \",\" Prohibited Locations \",\" Illegal dumping with a vehicle \",\n		\" Approval of Documents \",\" Certificate of Inspection  \",\" Abutting a public street \",\" Means of Egress \",\n		\" Guarding of Live Ports \",\" Integrity of Electrical Equip. \",\" Guarding of Live parts \",\" Electrical Work without a Permit \",\n		\" Failure clear sidewalk of snow \",\" Failure clear sidewalk of snow: \",\n		\" No Removal of snow at private property \",\" Integrity of electrical equipment \",\" Circuit Intensity \",\" Emergency Escape & Rescue \",\n		\" Fire Protection Systems \",\" Wiring Methods \",\" Corridor Obstruction \",\" Monitoring Fire Alarm Systems \",\n		\" Illegal dumping (5 cubic yards) \",\" Fire Protection & Life Safety \",\" Portable Fire Extinguishers \",\n		\" Means of egress doors \",\" Exits Maintained \",\" Minimum Number of Exits \",\" Locks and Latches \",\n		\" Handrails/safety \",\" Electrical equipment integrity \",\" Exposed work \",\" Illegal dumping (More than 5 cubic yd) \",\n		\" Live loads on roof \",\" Accessible Means of Egress \",\" Imbedded posts and poles \",\" Testing & Maintenance of Sprinklers \",\n		\" Fire Alarm Systems \",\" Carbon monoxide alarms \",\" Fire Wall/Fire Resistance \",\n		\" Occupancy \",\" Amended Constuction documents \",\" Illegal dumping Construction debris \",\" Horizontal assemblies, Fire hazard \",\n		\" Fire-resistance rating \",\" Failure of Delivery Standards \",\" Sign: Zoning Code \",\" Fire Alarm Response \",\n		\" Workmanship \",\" Littering \",\" Minimum Requirements \",\" Size and Rating \",\" Approval required \",\" Illegally occupied prior \",\n		\" Smoke alarm locations \",\" Illegal dumping (1-5 cubic yards) \",\" General Repairs \",\" Pool barrier \",\" Access to Public Way \",\n		\" Large building recycling \",\" Unsafe Structures \",\" Ungrounded Conducters \",\" Means of Attachment \",\n		\" Referenced Codes \",\" Construction Documents \",\" Exit Signs \",\" Emergency Escape \",\n		\" Specialized codes \",\" Floor Surface \",\" Handrails \",\" Proper Maintenance \",\" Emergency escape and rescue \",\n		\" Failure to call Inspections \",\" Protection of conductors \",\" Unsafe Maintenance \",\" Clearance \",\n		\" Maintenance of Facilities \",\" Temporary Wiring Methods \",\" Failure to secure inspections \",\n		\" Egress through Intervening Spaces \",\" Hazrdous Means of Egress \",\" Certificate of Inspection \",\" Seperation Walls \",\n		\" Wiring \",\" Unlawful Acts \",\" Operational Constraints \",\" Large building recycling \",\" Fire Alarm and Detection \",\n		\" Retaining Wall \",\" Corridors \",\" Effect of Non-Conforming Use \",\" Gates \",\" Fire Walls \",\" Elevator Lobbies \",\n		\" Illegal dumping of vehicle \",\" Pull & Junction Boxes \",\" Wiring Intensity \",\" Exit Access \",\" No Permit for Installation \",\n		\" Guards Where Required \",\" Water Accumulation \",\" Objectionable Current \",\" Smoke Alarms \",\" Damp or Wet Locations \",\n		\" Arcing Parts \",\" Unsafe Building & Structures \",\" Crying out wares \",\" Maintenance/Fire Protection \",\" Maximum Height from Floor \",\n		\" Construction Safeguards \",\" Mounting Electrical Equipment \",\" Illegal dumping of Hazardous Waste \",\" Bolt Locks \",\" Bathrooms \",\n		\" Illegal Temporary Wiring \",\" Means of Egress Illumination \",\" Smoke Detectors \",\" Fire Warning Systems \",\n		\" Carbon Monoxide Protection \",\" Unsafe Mechanical Equipment \",\" Boxes Construction and Installation \",\" Fire Escape Affidavit \",\n		\" Overcurrent Protection \",\" Fire Alarm & Detection \",\" Side Yard Requirements \",\" Grounding electrode conduction \",\n		\" Egress \",\" Manner of Removal \",\" Excessive Use of External Cords \",\" Removal/Making Structure Safe \",\" Covers & Canopies \",\n		\" False Statements \",\" Violation penalties \",\" Improper Electrical Repair \",\" Rem Dangerous/Abandoned Struct \",\n		\" Failure to call for required Inspection \",\" Licensed Supervisor \",\" Fire Partitions \",\" Spaces about Elect. Equip. \",\n		\" Building Illegally Occupied \",\" Hazardous Means of Egress \",\" Ventilation \",\" Electrical Room Used for Storage \",\n		\" Elevated Electrical Room \",\" Access to a Publicway \",\" Door Locks \",\" Disconnecting Means Service \",\n		\" Abusive Language In Solicitation \",\" Remove/Making Safe Structure \",\" Abandoned Cable \",\" Carbon Monoxide Detectors \",\n		\" Hand Rails \",\" Basements \",\" Illegal dumping solid waste \",\" Clearance on Buildings \",\" Permit Secured by Owner \",\n		\" Emergency Escape and Rescue \",\" Fences \",\" Exit Signs & Lights \",\" Illegal Dumping of vehicle \"];\n\n		$CRIMES = [\"CRIMES AGAINST CHILDREN\" , \"HOMICIDE\" , \"ARSON\" , \"HATECRIM\" , \"32GUN\" , \"WEAPONS CHARGE\" ,\n            \"AGGRAVATED ASSAULT\" , \"BIOTHREAT\" , \"DEATH INVESTIGATION\" , \"HARASS\" , \"TRESPASS\" , \"BOMB\" , \"EXPLOS\" , \"OTHER LARCENY\" ,\n            \"RESIDENTIAL BURGLARY\" , \"AUTO THEFT\" , \"ROBBERY\" , \"FIRE\" , \"PRISON\" , \"COMMERCIAL BURGLARY\" , \"PROPDAM\",\n            \"STOLEN PROPERTY CHARGES\" , \"OPERATING UNDER INFLUENCE\" , \"GATHER\" , \"INVPER\" , \"DRUG CHARGES\" , \"LANDLORD\" , \"PUBDRINK\" ,\n            \"DISORDERLY\" , \"PROSTITUTION CHARGES\" , \"GAMBLING OFFENSE\" , \"ARGUE\" , \"VANDALISM\" , \"SIMPLE ASSAULT\" ,\n            \"LABOR\" , \"PLATES\", \"MANSLAUG\"];\n        \n        $CRIME_CATEGORIES = [\"Violence\" , \"Homicide\" , \"Other\" , \"Violence\" , \"Weapons\" , \"Weapons\" ,\n            \"Violence\" , \"Other\" , \"Violence\" , \"Harassement\" , \"Property\" , \"Other\" , \"Other\" , \"Larceny/Theft/B&E\" , \n            \"Larceny/Theft/B&E\" , \"Larceny/Theft/B&E\" , \"Robbery\" , \"Other\" , \"Other\" , \"Larceny/Theft/B&E\" , \n            \"Property\", \"Property\" , \"Other\" , \"Noise/Disturbance\" , \"Harassement\" , \"Drug\" ,\n            \"Property\" , \"Noise/Disturbance\" , \"Noise/Disturbance\" , \"Prostitution\" , \n            \"Other\" , \"Noise/Disturbance\" , \"Property\" , \"Simple Assault\" , \"Other\" , \"Other\", \"Violence\"];\n        \n        $CRIME_VALUES = [10,10,6,7,5,5,4,3,6,3,2,3,3,4,4,5,4,3,2,3,3,3,3,5,2,4,4,7,7,3,2,3,2,3,1,1,8];\n\n        echo \"Tables emptied</br>\";\n        mysqli_query($con, 'TRUNCATE TABLE violations');\n        mysqli_query($con, 'TRUNCATE TABLE crimes');\n\n        echo \"violations populated</br>\";\n		for ($i = 0; $i < count($VIOLATIONS); $i++) {\n\n			$short = trim($VIOLATIONS[$i]);\n			$proper = trim($VIOLATIONS_PROPER[$i]);\n			$category = trim($VIOLATIONS_BY_CAT[$i]);\n			$val = (int)$VALUES_V[$i];\n\n			mysqli_query($con, \"INSERT INTO violations\n								VALUES ('$short', '$proper', '$category', '$val')\");\n		}\n\n		echo \"crimes populated</br>\";\n		for ($i = 0; $i < count($CRIMES); $i++) {\n\n			$name = trim($CRIMES[$i]);\n			$category = trim($CRIME_CATEGORIES[$i]);\n			$value = trim($CRIME_VALUES[$i]);\n\n			mysqli_query($con, \"INSERT INTO crimes\n								VALUES ('$name', '$category', '$value')\");\n		}\n\n		mysql_close($con);\n		echo \"Database Updated!\";\n?>",
+			"file": "/Users/charlesperrone/Sites/DOIT_SIMPLE/WEBPAGE2/init_database.php",
+			"file_size": 18942,
+			"file_write_time": 1406659704000000,
+			"settings":
+			{
+				"buffer_size": 18942,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"php",
+				"Tidy PHP"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/charlesperrone/Sites/DOIT_SIMPLE/WEBPAGE2/stylesSearch.css",
+		"/Users/charlesperrone/Sites/DOIT_SIMPLE/WEBPAGE2/init_database.php",
+		"/Users/charlesperrone/Sites/SPOT_IT/DOIT_SITE.sublime-project",
+		"/Users/charlesperrone/Sites/DOIT_SIMPLE/WEBPAGE2/search.html",
+		"/Users/charlesperrone/Sites/DOIT_SIMPLE/WEBPAGE2/my.js",
+		"/Users/charlesperrone/Sites/DOIT_SIMPLE/index.html",
+		"/Users/charlesperrone/Sites/DOIT_SITE/source/stylesheets/my.css",
+		"/Users/charlesperrone/Sites/DOIT_SITE/source/javascripts/my.js",
+		"/Users/charlesperrone/Sites/DOIT_SITE/source/index.html.erb",
+		"/Users/charlesperrone/Desktop/DoIT.sublime-project",
+		"/Users/charlesperrone/Sites/DOIT_SITE/source/php_info.php",
+		"/Users/charlesperrone/Sites/DOIT_SITE/source/objects.php",
+		"/Users/charlesperrone/Sites/DOIT_SITE/source/test.php",
+		"/Users/charlesperrone/Library/Application Support/Sublime Text 2/Packages/PhpTidy/PhpTidy.sublime-settings",
+		"/Users/charlesperrone/Sites/DOIT_SITE/source/populate_db.php",
+		"/Users/charlesperrone/Desktop/hello_world/package.json",
+		"/Users/charlesperrone/Desktop/DOIT_SITE/source/stylesheets/my.css",
+		"/Users/charlesperrone/Desktop/DOIT_SITE/source/javascripts/myjs.js",
+		"/Users/charlesperrone/Desktop/my_new_project/source/index.html.erb",
+		"/Users/charlesperrone/Desktop/bd_site/source/index.haml.rhtml",
+		"/Users/charlesperrone/Sites/BestEvent/bestEvent.css",
+		"/Users/charlesperrone/Sites/BestEvent/xml/data.xml",
+		"/Users/charlesperrone/Desktop/eclipse_files/eclipse_workspace/Gradebook/readme.md",
+		"/Users/charlesperrone/Desktop/LearnJquery/BestEvent.html",
+		"/Users/charlesperrone/Desktop/LearnJquery/javascript/my_jquery.js",
+		"/Users/charlesperrone/Desktop/LearnJquery/xml/data.xml",
+		"/Users/charlesperrone/Desktop/digital_media-projects/Working/LearnJquery/javascript/my_jquery.js",
+		"/Users/charlesperrone/Desktop/digital_media-projects/Working/LearnJquery/BestEvent.html",
+		"/Users/charlesperrone/Desktop/digital_media-projects/Working/LearnJquery/data.xml",
+		"/Users/charlesperrone/Desktop/digital_media-projects/Working/LearnJquery/test.xml",
+		"/Users/charlesperrone/Desktop/digital_media-projects/Working/LearnJquery/BestEvent_jscript.js",
+		"/Users/charlesperrone/Desktop/LearnJquery/learnJquery.html",
+		"/Users/charlesperrone/Desktop/LearnJquery/my_code.js",
+		"/Users/charlesperrone/Desktop/LearnJquery/data.xml",
+		"/Users/charlesperrone/Desktop/LearnJquery/wish_list.txt",
+		"/Users/charlesperrone/Desktop/LearnJquery/style_sheet.css",
+		"/Users/charlesperrone/Desktop/kitten-launcher/kitten-launcher.rkt",
+		"/Users/charlesperrone/Desktop/BestEventXML/style.css",
+		"/Users/charlesperrone/Desktop/BestEventXML/three_part_logo.jpg",
+		"/Users/charlesperrone/Desktop/BestEventXML/events.html",
+		"/Users/charlesperrone/Desktop/BestEventXML/data.xml",
+		"/Users/charlesperrone/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/charlesperrone/Desktop/BestDressedApp/data.xml",
+		"/Users/charlesperrone/Desktop/BestDressedApp/events.html",
+		"/Users/charlesperrone/Desktop/BestDressedApp/about.html",
+		"/Users/charlesperrone/Desktop/BestDressedApp/style.css",
+		"/Users/charlesperrone/Desktop/DigMediaFinalProposal.txt",
+		"/Users/charlesperrone/Desktop/BestDressedApp/bestDressedscripts.js",
+		"/Users/charlesperrone/Desktop/A08/RBTVisitor.java",
+		"/Users/charlesperrone/Documents/Processing/Trivia/TriviaGame.xml",
+		"/Users/charlesperrone/Documents/Processing/Trivia/README.txt",
+		"/Users/charlesperrone/Desktop/Reuse",
+		"/Users/charlesperrone/Desktop/in-class-jan14.java",
+		"/Users/charlesperrone/Downloads/processing-js-1.4.1/README.md",
+		"/Users/charlesperrone/Desktop/Schoolwork/Sophomore Year/Logic+Comp/Exam1CheatSheet.txt",
+		"/Users/charlesperrone/Desktop/Submission7/Log.txt",
+		"/Users/charlesperrone/Desktop/Schoolwork/Sophomore Year/Fundies2/LectureNotes/visitor",
+		"/Users/charlesperrone/Desktop/Interactions.txt",
+		"/Users/charlesperrone/Desktop/Schoolwork/Sophomore Year/Fundies2/PriorityQueue.txt",
+		"/Users/charlesperrone/Desktop/Schoolwork/Sophomore Year/Fundies2/LectureNotes/hasmap.txt",
+		"/Users/charlesperrone/Downloads/Lab2/PhoneChainData.java",
+		"/Users/charlesperrone/Desktop/Schoolwork/Sophomore Year/Fundies2/LectureNotes/Book.java",
+		"/Users/charlesperrone/Desktop/Schoolwork/Sophomore Year/Fundies2/LectureNotes/circularData.java",
+		"/Users/charlesperrone/Desktop/Schoolwork/Sophomore Year/3D/SVG_exports/Test.svg",
+		"/Users/charlesperrone/Downloads/hw03 (2).lisp",
+		"/Users/charlesperrone/Downloads/hw03 (1).lisp",
+		"/Users/charlesperrone/Downloads/Lab2/PersonPetList.java",
+		"/Users/charlesperrone/Downloads/Lab2/PersonPet.java",
+		"/Users/charlesperrone/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/charlesperrone/Desktop/Schoolwork/Logic+Comp/HW1.txt",
+		"/Users/charlesperrone/Desktop/personal_site/Simpler/simpler.html",
+		"/Users/charlesperrone/Desktop/personal_site/Simpler/simpler.css",
+		"/Users/charlesperrone/unixstuff/scripts/excercise1.sh",
+		"/Users/charlesperrone/Desktop/personal_site/FirstShotStyle.css",
+		"/Users/charlesperrone/Desktop/foo/bash.bash",
+		"/Users/charlesperrone/Desktop/personal_site/FirstShot.html",
+		"/Users/charlesperrone/Desktop/FirstShotStyle.css",
+		"/Users/charlesperrone/Desktop/FirstShot.html",
+		"/Users/charlesperrone/Desktop/Test.html",
+		"/Users/charlesperrone/Desktop/stylesheet",
+		"/Users/charlesperrone/Desktop/website project/index.html",
+		"/Users/charlesperrone/Desktop/website project/assets/main.css",
+		"/Users/charlesperrone/Desktop/fuckyou.css",
+		"/Users/charlesperrone/.gitconfig",
+		"/Users/charlesperrone/Desktop/website project/diff2.diff",
+		"/Users/charlesperrone/Desktop/website project/index copy.html",
+		"/Users/charlesperrone/.gitignore",
+		"/Users/charlesperrone/Desktop/fuckyou.html",
+		"/Users/charlesperrone/Desktop/website/index.html",
+		"/Users/charlesperrone/Desktop/foo/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"incYear",
+			"black",
+			"console.log",
+			"address",
+			"button-search",
+			"address",
+			"logo",
+			"debug",
+			"click",
+			"results",
+			"gray",
+			"green",
+			"each",
+			"php",
+			":",
+			"console.log",
+			"point",
+			"pointArray",
+			"placemarkers",
+			"to",
+			"remove",
+			"<p>",
+			"<li",
+			"li",
+			"clear",
+			"test?",
+			"last",
+			"#",
+			"> 	",
+			">",
+			"fofooter",
+			"class",
+			"about"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/charlesperrone/Sites/DOIT_SIMPLE/WEBPAGE2/my.js",
+					"settings":
+					{
+						"buffer_size": 3181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2989,
+								2989
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/charlesperrone/Sites/DOIT_SIMPLE/WEBPAGE2/search.html",
+					"settings":
+					{
+						"buffer_size": 1430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/charlesperrone/Sites/DOIT_SIMPLE/WEBPAGE2/my.php",
+					"settings":
+					{
+						"buffer_size": 3434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2173,
+								2173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/charlesperrone/Sites/DOIT_SIMPLE/WEBPAGE2/init_database.php",
+					"settings":
+					{
+						"buffer_size": 18942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18889,
+								18889
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2663.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/charlesperrone/Desktop/personal_site/FirstShot.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
